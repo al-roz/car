@@ -1,0 +1,4 @@
+
+MainIcon                ICON    DISCARDABLE     "icon.ico"
+
+Fig                     BITMAP  DISCARDABLE     "img\fig.bmp"
